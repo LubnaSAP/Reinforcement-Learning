@@ -1,5 +1,7 @@
 This repository hosts a collection of Python scripts and classes aimed at various aspects of reinforcement learning, simulation, and related algorithms. 
 
+To be able to fully run all the files you need to create and use a file containing the states/nodes of the initial memory events (location, semantic, temporal and episodic variables) and another one for the novel states/nodes. 
+
 Contents:
 
     Simulator Class: The Simulator class provides functionality to simulate state transitions based on a given propagator. It allows for sampling states and computing state distributions.
